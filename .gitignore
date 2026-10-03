@@ -1,0 +1,14 @@
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Local secrets and environment settings
+.env
+.env.*
+
+# Editor and operating-system files
+.DS_Store
