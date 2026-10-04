@@ -1,2 +1,1 @@
-message: str = "Hello world"
-print(message)
+print( "Hello world")
